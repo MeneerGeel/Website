@@ -1,0 +1,6 @@
+Donkerblauw	: #2a3039
+Blauw		: #056981
+Lichtblauw	: #a9dae7
+
+Geel		: #fdc757
+Magenta		: #e83973
